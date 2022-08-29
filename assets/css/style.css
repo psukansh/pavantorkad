@@ -430,7 +430,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background-color: #fcf2f7;
+  background-color: #ecf4ff;
   min-height: 40px;
 }
 
@@ -874,6 +874,7 @@ section {
 
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
+  
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
